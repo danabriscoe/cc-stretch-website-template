@@ -1,0 +1,80 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "cc-stretch-website-template"
+  # back-to-top-navigation: true
+  page-navigation: true
+  navbar:
+    background: light
+  #   # logo: quarto.png
+  #   # logo-alt: "Quarto logo."
+    collapse-below: lg
+    left:
+      - href: index.qmd
+        text: Home
+      # - href: tmp_page.qmd
+      #   text: About
+    right:
+      - text: "Wildlife Computers Maps"
+        menu:
+          - text: "2024 Map"
+            href: "https://my.wildlifecomputers.com/data/map/?id=66836b103844d032140f0ab6"
+            icon: globe
+          - text: "2023 Map"
+            href: "https://my.wildlifecomputers.com/data/map/?id=646c14fae9b3514a9430a544"
+            icon: globe
+    
+  sidebar:
+    pinned: true
+    align: center
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Latest | Date
+      - section: docs/tmp_2_date.qmd
+        text: Previous
+        contents:
+          - href: docs/tmp_2_date.qmd
+            text: Previous 2
+          - href: docs/tmp_1_date.qmd
+            text: Previous 1
+      - href: docs/tmp_page.qmd
+        text: Another Temp Page
+  page-footer:
+    # right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; CC-DBriscoe, 2024"
+
+format:
+  html:
+    theme: 
+        light: [cosmo, theme.scss]
+        dark: darkly
+    code-copy: true
+    code-overflow: wrap
+    # link-external-icon: true
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/www\.quarto\.org\/custom'
+    # css: styles.css
+    fontsize: 22px
+    toc: true
+    toc-expand: true	
+    number-sections: false
+    toc-location: right
+    number-depth: 2
+    smooth-scroll: true
+    fig-cap-location: top
+    scrollable: true
+
+filters:
+  # - include-files.lua
+  - lightbox
+  - quarto
+lightbox: 
+  match: auto
+  effect: zoom
+  desc-position: top
+

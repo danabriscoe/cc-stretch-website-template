@@ -1,0 +1,61 @@
+/*-- scss:defaults --*/
+
+// Colors
+$link-color: #75AADB; // hyperlinks
+$highlight-color: orange;
+$default-color: black;
+
+// Font Size
+$font-size: 25px;
+
+// Table of Contents
+$toc-font-size: 20px;
+$toc-font-weight: bold;
+
+
+/*-- scss:rules --*/
+.sidebar nav[role="doc-toc"] ul > li > a.active {
+    color: $default-color !important;
+//    background-color: yellow;
+    font-weight: bold;
+}
+
+h2 {
+  color: black !important;
+//  padding-bottom: 16pt;
+}
+h3{
+    
+}
+h4{
+//  font-size: 16pt;    
+}
+h5{
+//  font-size: 20pt;
+}
+
+body {
+    font-size: 16pt;   
+}
+
+.video {
+    position: fixed;
+    width: 100%;
+    height: auto;
+}
+
+.bullet {
+    font-weight:600;
+    font-size: 18pt;
+}
+
+.heart-this {
+  color: red;
+  text-align: center;
+}
+
+.highlight {
+  color: black;
+  font-weight: 700;
+  background-color: $highlight-color;
+}

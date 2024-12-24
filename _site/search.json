@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "cc-stretch-website-template",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "page_1.html",
+    "href": "page_1.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "tmp_page.html",
+    "href": "tmp_page.html",
+    "title": "Tmp Page",
+    "section": "",
+    "text": "This is a temporary page"
+  },
+  {
+    "objectID": "tmp_1_date.html",
+    "href": "tmp_1_date.html",
+    "title": "tmp_1_date",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "tmp_1_date.html#running-code",
+    "href": "tmp_1_date.html#running-code",
+    "title": "tmp_1_date",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "tmp_2_date.html",
+    "href": "tmp_2_date.html",
+    "title": "tmp_2_date",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "tmp_2_date.html#running-code",
+    "href": "tmp_2_date.html#running-code",
+    "title": "tmp_2_date",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n2 + 6\n\n[1] 8\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "test_qmds/tmp_page.html",
+    "href": "test_qmds/tmp_page.html",
+    "title": "Tmp Page",
+    "section": "",
+    "text": "This is a temporary page"
+  },
+  {
+    "objectID": "materials/tmp_1_date.html",
+    "href": "materials/tmp_1_date.html",
+    "title": "tmp_1_date",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "materials/tmp_1_date.html#running-code",
+    "href": "materials/tmp_1_date.html#running-code",
+    "title": "tmp_1_date",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "materials/tmp_page.html",
+    "href": "materials/tmp_page.html",
+    "title": "Tmp Page",
+    "section": "",
+    "text": "This is a temporary page"
+  },
+  {
+    "objectID": "materials/tmp_2_date.html",
+    "href": "materials/tmp_2_date.html",
+    "title": "tmp_2_date",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "materials/tmp_2_date.html#running-code",
+    "href": "materials/tmp_2_date.html#running-code",
+    "title": "tmp_2_date",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n2 + 6\n\n[1] 8\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "docs/tmp_1_date.html",
+    "href": "docs/tmp_1_date.html",
+    "title": "cc-stretch-website-template",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "docs/tmp_1_date.html#running-code",
+    "href": "docs/tmp_1_date.html#running-code",
+    "title": "cc-stretch-website-template",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).\nThis is a playground for Quarto."
+  },
+  {
+    "objectID": "docs/tmp_page.html",
+    "href": "docs/tmp_page.html",
+    "title": "Sample Page",
+    "section": "",
+    "text": "This is a temporary page\n\n\n\nWith a permanent picture ❤️"
+  },
+  {
+    "objectID": "docs/tmp_2_date.html",
+    "href": "docs/tmp_2_date.html",
+    "title": "cc-stretch-website-template",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "docs/tmp_2_date.html#running-code",
+    "href": "docs/tmp_2_date.html#running-code",
+    "title": "cc-stretch-website-template",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n2 + 6\n\n[1] 8\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "index.html#here-is-a-header",
+    "href": "index.html#here-is-a-header",
+    "title": "cc-stretch-website-template",
+    "section": "Here is a header",
+    "text": "Here is a header\nPhoto caption: Olive Briscoe"
+  },
+  {
+    "objectID": "index.html#here-is-another-header",
+    "href": "index.html#here-is-another-header",
+    "title": "cc-stretch-website-template",
+    "section": "Here is another header",
+    "text": "Here is another header\n\n123"
+  }
+]
