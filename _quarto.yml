@@ -35,14 +35,14 @@ website:
     contents:
       - href: index.qmd
         text: Latest | Date
-      - section: docs/tmp_2_date.qmd
+      - section: tmp_2_date.qmd
         text: Previous
         contents:
-          - href: docs/tmp_2_date.qmd
+          - href: tmp_2_date.qmd
             text: Previous 2
-          - href: docs/tmp_1_date.qmd
+          - href: tmp_1_date.qmd
             text: Previous 1
-      - href: docs/tmp_page.qmd
+      - href: tmp_page.qmd
         text: Another Temp Page
   page-footer:
     # right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."

@@ -15,13 +15,13 @@ Photo caption: Olive Briscoe ![](docs/images/olive_b.jpeg) <br> <br>
 ::: panel-tabset
 ### 1
 
-![](docs/images/IMG_0379.jpeg){group="friends"}
+![](images/IMG_0379.jpeg){group="friends"}
 
 ### 2
 
-![](docs/images/olive_b.jpeg){group="friends"}
+![](images/olive_b.jpeg){group="friends"}
 
 ### 3
 
-![](docs/images/Tom_and_Betty_pic.jpeg){group="friends"}
+![](images/Tom_and_Betty_pic.jpeg){group="friends"}
 :::

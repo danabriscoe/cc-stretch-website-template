@@ -1,0 +1,7 @@
+---
+title: "Sample Page"
+---
+
+This is a temporary page
+
+![With a permanent picture ❤️](images/Tom_and_Betty_pic.jpeg)
