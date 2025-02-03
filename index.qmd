@@ -8,7 +8,18 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ## Here is a header
 
-Photo caption: Olive Briscoe ![](docs/images/olive_b.jpeg) <br> <br>
+
+::: {.panel-tabset}
+
+
+#### 1
+![Photo caption: Olive Briscoe ](images/olive_b.jpeg){group="friends"} 
+
+#### 2
+![Photo caption: Olive Briscoe ](images/beanerz_yawn.png)
+:::
+
+<br> <br>
 
 ## Here is another header
 
@@ -19,7 +30,10 @@ Photo caption: Olive Briscoe ![](docs/images/olive_b.jpeg) <br> <br>
 
 ### 2
 
+
+
 ![](images/olive_b.jpeg){group="friends"}
+
 
 ### 3
 

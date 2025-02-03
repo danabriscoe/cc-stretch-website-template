@@ -4,7 +4,7 @@ project:
 
 website:
   title: "cc-stretch-website-template"
-  # back-to-top-navigation: true
+  back-to-top-navigation: true
   page-navigation: true
   navbar:
     background: light
